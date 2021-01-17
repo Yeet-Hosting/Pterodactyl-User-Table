@@ -1,0 +1,12 @@
+{
+  "name": "peterodactyl-user-table",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hadi Mahfouz",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "moment": "^2.29.1",
+    "nodeactyl.js": "^0.4.4"
+  }
+}
